@@ -1,6 +1,8 @@
 # Hellow, Im Ashik Hasan  👋
+<h1 align="center">
+ <img src="https://ibb.co/Ln4zyDm" />
+</h1>
 
-<p align="left"> <img src="https://ibb.co/Ln4zyDm" alt="ashik-gf" /> </p>
 Hare Some Skill which i have explore:
 
 - 🔭  I explore HTML.
