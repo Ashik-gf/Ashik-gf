@@ -1,8 +1,6 @@
 # Hellow World  👋
 
-[a novel](https://en.wikipedia.org/wiki/The_Milagro_Beanfield_War_%28novel%29)
 
-<a href="https://en.wikipedia.org/wiki/The_Milagro_Beanfield_War_(novel)">a novel</a>
 Hare Some Skill which i have explore:
 
 - 🔭  I explore HTML.
@@ -15,3 +13,4 @@ Hare Some Skill which i have explore:
 - 🌱  I explore NodeJs.
 - 😄  I explore ExpressJs.
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ashik-gf&theme=blue-navy&hide_border=true&hide_total_contributions=true)](https://git.io/streak-stats)
