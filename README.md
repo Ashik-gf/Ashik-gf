@@ -5,8 +5,6 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 Hare Some Skill which i have explore:
 
-![The San Juan Mountains are beautiful!](https://ibb.co/Ln4zyDm "San Juan Mountains")
-
 
 - 🔭  I explore HTML.
 - 🌱  I explore CSS'
