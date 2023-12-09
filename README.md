@@ -1,4 +1,4 @@
-# Hellow World  👋
+# Hellow, Im Ashik Hasan  👋
 
 
 Hare Some Skill which i have explore:
@@ -17,6 +17,6 @@ Hare Some Skill which i have explore:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,CSS,tailwind,js,react," />
+    <img src="https://skillicons.dev/icons?i=git,html,css,tailwind,js,react," />
   </a>
 </p>
