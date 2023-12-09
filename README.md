@@ -17,6 +17,6 @@ Hare Some Skill which i have explore:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,CSS,react,js,tailwind" />
+    <img src="https://skillicons.dev/icons?i=git,html,CSS,tailwind,js,react," />
   </a>
 </p>
