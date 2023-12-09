@@ -1,5 +1,4 @@
-
-
+![logo](https://github.com/Ashik-gf/Ashik-gf/blob/main/My%20(2).png)
 
 
 <h1 align="center">Hi 👋, I'm Ashik Hasan</h1>
