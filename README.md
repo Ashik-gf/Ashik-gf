@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashik-gf/Ashik-gf/blob/main/My%20(2).png)
+![logo](https://github.com/Ashik-gf/Ashik-gf/blob/main/Blue%20Gaming%20Facebook%20Cover.mp4)
 
 
 <h1 align="center">Hi 👋, I'm Ashik Hasan</h1>
