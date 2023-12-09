@@ -1,4 +1,4 @@
-![logo](White and Purple Professional Technology Startup Business Company Presentation.gif)
+![logo](https://github.com/Ashik-gf/Ashik-gf/blob/main/White%20and%20Purple%20Professional%20Technology%20Startup%20Business%20Company%20Presentation.gif)
 
 
 <h1 align="center">Hi 👋, I'm Ashik Hasan</h1>
